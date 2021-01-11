@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jeremiah
+## Hi there 👋 I'm Jeremiah
 
 <!--
 **jeremih4/jeremih4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a 2020 graduate, aspiring data scientist, and a manchester united aficionado!!
+### I'm a 2020 graduate, aspiring data scientist, and a manchester united aficionado!!
 
 - 🔭 I graduated from the University of Melbourne in december 2020
 - 🌱 I’m currently learning and relearning everything 🤣
