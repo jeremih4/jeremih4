@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I graduated from the University of Melbourne in december 2020
 - 🌱 I’m currently learning and relearning everything 🤣
 - 💬 Ask me about university life and data science at Unimelb!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: learn, learn, learn.
 - ⚡ Fun fact: I love to draw and play chess
 
 <!--
@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 - Python
 - R
-- Mathematica
 - Git
 - ArcGIS
 - PowerBI
