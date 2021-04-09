@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a 2020 graduate, aspiring data scientist, and a manchester united aficionado!!
+### I'm a 2020 graduate, associate level data scientist, and a manchester united aficionado!!
 
 - 🔭 I graduated from the University of Melbourne in december 2020
 - 🌱 I’m currently learning and relearning everything 🤣
